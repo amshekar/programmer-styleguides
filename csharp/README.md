@@ -1,31 +1,31 @@
-# C Sharp Style Guide  {
+# C Sharp Style Guide{} using c#
 
 ## Table of Contents
 
-  1. [About the C# Coding Style Guide.](#About the C# Coding Style Guide)
-  1. [Projects and Solutions.](#Projects and Solutions)
-  1. [File Organization.](#File Organization)
+  1. [About the C# Coding Style Guide.](#AbouttheC#CodingStyleGuide)
+  1. [Projects and Solutions.](#ProjectsandSolutions)
+  1. [File Organization.](#FileOrganization)
   1. [Indentation.](#Indentation.)
   1. [Comments.](#Comments.)
   1. [Declarations.](#Declarations)
   1. [Statements.](#Statements)
-  1. [White Space.](#White Space)
-  1. [Naming Conventions.](#Naming Conventions)
+  1. [White Space.](#WhiteSpace)
+  1. [Naming Conventions.](#NamingConventions)
   1. [Namespaces.](#Namespaces)
   1. [Classes](#Classes)
   1. [#Types](#Types)
   1. [Interfaces](#Interfaces)
-  1. [Enumeration Types](#Enumeration Types)
+  1. [Enumeration Types](#EnumerationTypes)
   1. [Methods](#Methods)
   1. [Properties](#Properties)
-  1. [Fields and Variables](#Fields and Variables)
+  1. [Fields and Variables](#FieldsandVariables)
   1. [Constants](#Constants)
-  1. [Code Layout](#Code Layout)
-  1. [Programming Practices](#Programming Practices)
-  1. [Code Examples.](#Code Examples.)
+  1. [Code Layout](#CodeLayout)
+  1. [Programming Practices](#ProgrammingPractices)
+  1. [Code Examples.](#CodeExamples.)
   1. [C# Docs.](#Csharp-Docs)
 
-  ## About the C# Coding Style Guide
+  ## AbouttheC#CodingStyleGuide
 
    This document may be read as a guide to writing robust and reliable programs. It focuses on programs
 written in C ♯, but many of the rules and principles are useful even if you write in another programming
@@ -33,7 +33,7 @@ language.
   
 **[⬆ back to top](#table-of-contents)**
 
-  ## Projects and Solutions
+  ## ProjectsandSolutions
 - The name of the solution should match the name of its main project.
 - Solution files (*.sln and *suo) in a single project solution should be placed inside the main source code.
 - Solution files (.sln and .suo) in multiple project solutions should be placed inside the main directory, whereas each individual project should be in a subdirectory of this main solution directory.
@@ -42,7 +42,7 @@ language.
 
 **[⬆ back to top](#table-of-contents)**
 
-## File Organization
+## FileOrganization
 - Each source file should define one class or a few closely related classes or interface.
 - The filenames should be the same as the class name, or the name of the most important of the classes.
 - Source file name are Pascal Case.
@@ -78,7 +78,7 @@ int userId;
 **[⬆ back to top](#table-of-contents)**
 
 
-## Naming Conventions
+## NamingConventions
 - Spell words using correct English spelling. For the most part, avoid abbreviations.
 - Make names clearly unique. Avoid similar-sounding names and similarly-spelled names.
 - Use two naming convention: Pascal (PascalCase) and Camel (camelCase).
@@ -123,7 +123,7 @@ System.Collection
 - You might want to enclose the implementation of any interface in #region blocks to collapse and expand it easily only when a class implement multiple interfaces.
 
 **[⬆ back to top](#table-of-contents)**
-## Enumeration Types
+## EnumerationTypes
 - Use Pascal Case for Enum types and value names. 
 - Do not use an Enum suffix on Enum types names.
 - Use a singular name for most Enum types, but use a plural name for Enum types that are bit fields. 
@@ -141,7 +141,7 @@ System.Collection
 - Use Pascal Case.
 
 **[⬆ back to top](#table-of-contents)**
-## Fields and Variables
+## FieldsandVariables
 - Use nouns, verbs, noun phrases, or abbreviations of nouns.
 - If variable is bool type use ‘is’, ‘has’, etc, prefix.
 ```C#
@@ -175,7 +175,7 @@ public class User
 private const string DAYS_IN_A_WEEK = 7;
 ```
 **[⬆ back to top](#table-of-contents)**
-## Code Layout
+## CodeLayout
 - Put one statement per line.
 - Always use C# predefined types rather than the aliases in System namespace.
 
