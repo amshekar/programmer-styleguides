@@ -33,21 +33,27 @@ The purpose of this style guide is to provide guidance on building software appl
 
 2. [Naming Guidelines](https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx )
 
-3. [csharp-coding-standards](http://www.dofactory.com/reference/csharp-coding-standards)
+3. [Coding Guidelines](https://github.com/dennisdoomen/CSharpGuidelines)
 
-4. [JavaScript Standard Style](https://standardjs.com/rules.html)
+4. [csharp-coding-standards](http://www.dofactory.com/reference/csharp-coding-standards)
 
-5. [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+5. [Design Patterns](http://www.dofactory.com/net/design-patterns)
 
-6. [EPAM Javascript](https://kb.epam.com/display/EMSFTCC/JavaScript+Coding+Standards)
+6. [JavaScript Standard Style](https://standardjs.com/rules.html)
 
-7. [EPAM BestPractises](https://kb.epam.com/display/EMSFTCC/EPAM+Best+Practices)
+7. [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
 
-8. [scotch BestPractises](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
+8. [Stylecop and resharper settings](https://kb.epam.com/pages/viewpage.action?pageId=120193087)
 
-9. [Air pair angular](https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
+9. [EPAM Javascript](https://kb.epam.com/display/EMSFTCC/JavaScript+Coding+Standards)
 
-10. [Thought works angular practises](https://www.thoughtworks.com/insights/blog/good-practices-build-your-angularjs-application)
+10. [EPAM BestPractises](https://kb.epam.com/display/EMSFTCC/EPAM+Best+Practices)
+
+11. [scotch BestPractises](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
+
+12. [Air pair angular](https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
+
+13. [Thought works angular practises](https://www.thoughtworks.com/insights/blog/good-practices-build-your-angularjs-application)
 
 ## Contributing
 Open an issue first to discuss potential changes/additions. If you have questions with the guide, feel free to leave them as issues in the repository. If you find a typo, create a pull request. The idea is to keep the content up to date and use github’s native feature to help tell the story with issues and PR’s, which are all searchable via google. Why? Because odds are if you have a question, someone else does too! You can learn more here at about how to contribute.
