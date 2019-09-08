@@ -12,8 +12,8 @@ There are multiple versions of Angular, and thus there are multiple versions of 
 ### Csharp Style Guide
 [The C# Style Guide](https://github.com/amshekar/programmer-styleguides/blob/angular-style-guides/csharp/README.md).
 
-## EPAM Radian Team Endorsed
-Special thanks to EPAM Radian Team for reviewing, contributing feedback, and entrusting me to shepherd this guide.
+## EPAM  Team Endorsed
+Special thanks to EPAM  Team for reviewing, contributing feedback, and entrusting me to shepherd this guide.
 
 ## Purpose
 *Opinionated programmer style guide for teams by @epam*
